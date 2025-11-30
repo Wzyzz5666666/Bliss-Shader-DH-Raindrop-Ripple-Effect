@@ -1,1 +1,0 @@
-This is the original file of the shader package used for modification.
